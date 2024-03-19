@@ -3,7 +3,6 @@ module github.com/lestrrat-go/jwx/v2
 go 1.18
 
 require (
-	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.2.0
 	github.com/goccy/go-json v0.10.2
 	github.com/lestrrat-go/blackmagic v1.0.2
 	github.com/lestrrat-go/httprc v1.0.4
